@@ -1,10 +1,10 @@
 # Some notes to help deployment
 
 ## important files
-.env.local
-lib/directus.ts
-next.config.mjs
-middleware.ts
+- .env.local
+- lib/directus.ts
+- next.config.mjs
+- middleware.ts
 
 ## important ui code folders for blog feature
 Enverything in the app/blog folder
