@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=tV4IjyWjtCE&list=PLPU1VWZcc21Bm1xjpmHPVwtMdSv-yE70n&index=1&pp=iAQB 
+
 # Some notes to help deployment
 
 ## Important files
